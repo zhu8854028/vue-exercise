@@ -1,0 +1,3 @@
+public statis void main() {
+
+}
